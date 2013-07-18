@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int years = 1;
+	int years = 0;
 	double daphneInitial = 100;
 	double daphne = daphneInitial;
 	double cleo = 100;

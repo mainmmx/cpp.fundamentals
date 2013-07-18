@@ -21,7 +21,7 @@ int main()
 	cout << endl << "The times are:" << endl;
 	for (int i = 0; i < kSize; i++)
 	{
-		cout << seconds[i] << " seconds" << endl;
+		cout << seconds[i] << " seconds\n";
 	}
 	cout << "The average time is " << sum / kSize << " seconds";
 
